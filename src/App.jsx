@@ -4,7 +4,6 @@ import NavBar from "./Components/NavBar";
 import Hero from "./Components/Hero";
 import Stats from "./Components/Stats";
 import Business from "./Components/Business";
-
 import Billing from "./Components/Billing";
 import CardDeal from "./Components/CardDeal";
 import Testimonials from "./Components/Testimonials";
@@ -32,7 +31,6 @@ const App = () => {
           < Stats />
           < Business />
           < Billing />
-
           <CardDeal />
           <Testimonials />
           <Clients />
