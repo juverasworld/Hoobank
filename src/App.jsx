@@ -9,9 +9,7 @@ import CardDeal from "./Components/CardDeal";
 import Testimonials from "./Components/Testimonials";
 import Clients from "./Components/Clients";
 import CTA from "./Components/CTA";
-import Footer from "./Components/Footer";
-
-
+import Footer from "./Components/Footer"
 const App = () => {
   return (
     <div className='bg-primary w-full overflow-hidden'>
